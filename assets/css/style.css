@@ -2,3 +2,31 @@
 	clear:both;
 	height: 100px;
 }
+
+.captions {
+	position: absolute;
+	bottom: 13%;
+	text-align: center;
+	background: #777777;
+	font-weight: bolder;
+	font-size: 18px;
+	color:#ffffff;
+	padding: 0;
+	width: 100%;
+	left: 0;
+}
+
+.portfolioImage{
+	position: relative;
+	width: 100%;
+	height: auto;
+	padding: 0;
+	margin-left: 0;
+	margin-right: 0;
+	margin-bottom: 25px;
+}
+
+.test {
+	background: blue;
+	position: relative;
+}
